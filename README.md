@@ -1,5 +1,6 @@
 # School Management System PHP & MYSQL
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Amanuel%20Moha-red)
+---
 version: 1.0.0
 
 ## TECHNOLOGIES
@@ -13,4 +14,4 @@ version: 1.0.0
 
 ## Authors
 
-[Amanuel Moha]
+Amanuel Moha
