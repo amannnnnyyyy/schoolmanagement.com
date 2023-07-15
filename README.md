@@ -1,5 +1,5 @@
 # School Management System PHP & MYSQL
-
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Amanuel%20Moha-red)
 version: 1.0.0
 
 ## TECHNOLOGIES
@@ -11,10 +11,6 @@ version: 1.0.0
 1. CSS
 1. JS
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/Jx3vbM0MknY)
-
 ## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+[Amanuel Moha]
